@@ -1,3 +1,8 @@
+# Note From Me ;p
+
+I dispise create react app but for the soul purpuse of following this tutorial i used it.
+I am codeing along with this youtube video [Let's Build a Full-Stack AMAZON Clone](https://www.youtube.com/watch?v=RDV3Z1KCBvo).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
