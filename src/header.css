@@ -58,8 +58,11 @@
 .header__optionBasket {
     display: flex;
     align-items: center;
+    color: white;
+    text-decoration: none;
 }
 
 .header__basketCount {
     padding: 0px 10px;
+    text-decoration: none;
 }
